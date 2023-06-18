@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-first-angular-projet';
+  title = 'This is my first App';
+  firstName ='Roberto';
+  lastName='Mantale';
 }
